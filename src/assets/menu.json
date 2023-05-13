@@ -1,0 +1,199 @@
+{
+  "pizza": [
+    {
+      "name": "Margherita Pizza R",
+      "price": 170,
+      "id": 1
+    },
+    {
+      "name": "Margherita Pizza M",
+      "price": 299,
+      "id": 2
+    },
+    {
+      "name": "Margherita Pizza L",
+      "price": 399,
+      "id": 3
+    },
+    {
+      "name": "Veg Simple Pizza R",
+      "price": 189,
+      "id": 4
+    },
+    {
+      "name": "Veg Simple Pizza M",
+      "price": 309,
+      "id": 5
+    },
+    {
+      "name": "Veg Simple Pizza L",
+      "price": 409,
+      "id": 6
+    },
+    {
+      "name": "Veg Crunchy Pizza R",
+      "price": 199,
+      "id": 7
+    },
+    {
+      "name": "Veg Crunchy Pizza M",
+      "price": 319,
+      "id": 8
+    },
+    {
+      "name": "Veg Crunchy Pizza L",
+      "price": 419,
+      "id": 9
+    },
+    {
+      "name": "Veg Spicy Pizza R",
+      "price": 209,
+      "id": 10
+    },
+    {
+      "name": "Veg Spicy Pizza M",
+      "price": 329,
+      "id": 11
+    },
+    {
+      "name": "Veg Spicy Pizza L",
+      "price": 429,
+      "id": 12
+    },
+    {
+      "name": "Sweet Corn Pizza R",
+      "price": 219,
+      "id": 13
+    },
+    {
+      "name": "Sweet Corn Pizza M",
+      "price": 369,
+      "id": 14
+    },
+    {
+      "name": "Sweet Corn Pizza L",
+      "price": 469,
+      "id": 15
+    },
+    {
+      "name": "Pepper Paneer Pizza R",
+      "price": 229,
+      "id": 16
+    },
+    {
+      "name": "Pepper Paneer Pizza M",
+      "price": 389,
+      "id": 17
+    },
+    {
+      "name": "Pepper Paneer Pizza L",
+      "price": 499,
+      "id": 18
+    },
+    {
+      "name": "Baby Corn Pizza R",
+      "price": 229,
+      "id": 19
+    },
+    {
+      "name": "Baby Corn Pizza M",
+      "price": 389,
+      "id": 20
+    },
+    {
+      "name": "Baby Corn Pizza L",
+      "price": 499,
+      "id": 21
+    },
+    {
+      "name": "Supreme Pizza R",
+      "price": 239,
+      "id": 22
+    },
+    {
+      "name": "Supreme Pizza M",
+      "price": 399,
+      "id": 23
+    },
+    {
+      "name": "Supreme Pizza L",
+      "price": 549,
+      "id": 24
+    },
+    {
+      "name": "Cheesy Chicken Pizza R",
+      "price": 209,
+      "id": 25
+    },
+    {
+      "name": "Cheesy Chicken Pizza M",
+      "price": 370,
+      "id": 26
+    },
+    {
+      "name": "Cheesy Chicken Pizza L",
+      "price": 449,
+      "id": 27
+    },
+    {
+      "name": "Ferri Chicken Pizza R",
+      "price": 229,
+      "id": 28
+    },
+    {
+      "name": "Ferri Chicken Pizza M",
+      "price": 399,
+      "id": 29
+    },
+    {
+      "name": "Ferri Chicken Pizza L",
+      "price": 499,
+      "id": 30
+    },
+    {
+      "name": "Chicken Crunchy Pizza R",
+      "price": 249,
+      "id": 31
+    },
+    {
+      "name": "Chicken Crunchy Pizza M",
+      "price": 430,
+      "id": 32
+    },
+    {
+      "name": "Chicken Crunchy Pizza L",
+      "price": 549,
+      "id": 33
+    },
+    {
+      "name": "Pepper Chicken Masala Pizza R",
+      "price": 269,
+      "id": 34
+    },
+    {
+      "name": "Pepper Chicken Masala Pizza M",
+      "price": 460,
+      "id": 35
+    },
+    {
+      "name": "Pepper Chicken Masala Pizza L",
+      "price": 599,
+      "id": 36
+    },
+    {
+      "name": "Supreme Chicken Pizza R",
+      "price": 289,
+      "id": 37
+    },
+    {
+      "name": "Supreme Chicken Pizza M",
+      "price": 489,
+      "id": 38
+    },
+    {
+      "name": "Supreme Chicken Pizza L",
+      "price": 649,
+      "id": 39
+    }
+  ]
+}
